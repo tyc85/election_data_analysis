@@ -1,0 +1,253 @@
+Precinct, Registered voters, Ballots Cast Turnout, Gary Peters DEM, John James REP, Valerie L. Willis, Marcia Squier, Doug Dern, Total write-in
+Ada Township Precinct 1 1,316 1,095 83.21% 538 542 3 3 0 0
+Ada Township Precinct 2 2,428 1,979 81.51% 918 1,007 10 10 0 1
+Ada Township Precinct 3 1,397 1,152 82.46% 447 677 8 9 0 0
+Ada Township Precinct 4 1,168 982 84.08% 345 621 3 3 0 0
+Ada Township Precinct 5 2,112 1,765 83.57% 588 1,132 7 11 2 1
+Ada Township Precinct 6 1,031 824 79.92% 369 440 2 3 0 1
+Ada Township Precinct 7 1,189 1,016 85.45% 464 538 3 5 0 0
+Ada Township Precinct 8 1,202 990 82.36% 410 564 4 4 2 0
+Algoma Township Precinct 1 1,355 1,096 80.89% 335 726 13 6 4 0
+Algoma Township Precinct 2 1,648 1,391 84.41% 436 920 10 9 2 0
+Algoma Township Precinct 3 1,766 1,469 83.18% 437 999 9 4 2 0
+Algoma Township Precinct 4 1,873 1,426 76.13% 516 867 9 7 2 0
+Algoma Township Precinct 5 2,513 2,113 84.08% 768 1,292 10 10 3 0
+Alpine Township Precinct 1 1,135 877 77.27% 333 509 12 6 1 1
+Alpine Township Precinct 2 1,428 998 69.89% 477 482 12 7 2 1
+Alpine Township Precinct 3 2,350 1,856 78.98% 835 942 16 21 7 1
+Alpine Township Precinct 4 2,388 1,601 67.04% 610 923 17 15 3 1
+Alpine Township Precinct 5 1,053 845 80.25% 268 552 8 4 4 1
+Alpine Township Precinct 6 2,173 1,056 48.6% 682 320 16 17 4 1
+Bowne Township Precinct 1 2,578 2,155 83.59% 508 1,591 10 10 1 3
+Byron Township Precinct 1 2,655 2,214 83.39% 572 1,583 9 18 1 2
+Byron Township Precinct 2 2,872 2,492 86.77% 697 1,739 12 10 4 2
+Byron Township Precinct 3 3,128 1,561 49.9% 716 789 21 15 5 1
+Byron Township Precinct 4 2,179 1,941 89.08% 387 1,529 5 5 1 0
+Byron Township Precinct 5 2,618 2,264 86.48% 511 1,705 9 8 1 2
+Byron Township Precinct 6 1,585 1,333 84.1% 417 893 9 2 1 0
+Byron Township Precinct 7 2,610 2,117 81.11% 683 1,378 12 12 3 3
+Byron Township Precinct 8 2,407 2,002 83.17% 755 1,183 18 14 1 2
+Caledonia Charter Township Precinct 1 1,286 994 77.29% 382 585 4 8 1 0
+Caledonia Charter Township Precinct 2 2,250 1,799 79.96% 546 1,207 8 10 2 1
+Caledonia Charter Township Precinct 3 2,227 1,825 81.95% 525 1,255 15 13 1 1
+Caledonia Charter Township Precinct 4 1,440 1,226 85.14% 323 878 6 5 0 3
+Caledonia Charter Township Precinct 5 2,691 2,192 81.46% 667 1,475 10 13 2 1
+Caledonia Charter Township Precinct 6 2,131 1,701 79.82% 610 1,043 14 13 2 0
+Cannon Township Precinct 1 2,238 1,907 85.21% 652 1,212 6 15 4 0
+Cannon Township Precinct 2 2,068 1,705 82.45% 544 1,118 8 9 2 0
+Cannon Township Precinct 3 1,663 1,409 84.73% 521 852 7 12 2 0
+Cannon Township Precinct 4 2,515 2,113 84.02% 798 1,263 15 10 4 1
+Cannon Township Precinct 5 1,649 1,363 82.66% 444 879 11 7 2 0
+Cannon Township Precinct 6 2,005 1,650 82.29% 575 1,026 8 13 0 1
+Cascade Charter Township Precinct 1 1,502 1,289 85.82% 502 769 1 2 0 1
+Cascade Charter Township Precinct 2 1,798 1,516 84.32% 611 884 1 4 0 0
+Cascade Charter Township Precinct 3 1,229 1,047 85.19% 421 608 3 4 1 1
+Cascade Charter Township Precinct 4 1,778 1,539 86.56% 659 852 5 4 3 1
+Cascade Charter Township Precinct 5 2,468 2,084 84.44% 755 1,289 9 9 0 0
+Cascade Charter Township Precinct 6 1,602 1,338 83.52% 665 648 5 5 1 0
+Cascade Charter Township Precinct 7 1,413 1,074 76.01% 469 580 3 4 1 0
+Cascade Charter Township Precinct 8 1,390 1,207 86.83% 602 586 2 5 0 0
+Cascade Charter Township Precinct 9 1,469 1,263 85.98% 574 658 6 10 0 1
+Cascade Charter Township Precinct 10 1,432 1,221 85.27% 432 763 3 10 0 0
+Cedar Springs City Precinct 1 2,551 1,562 61.23% 533 966 20 15 5 2
+Courtland Township Precinct 1 2,216 1,854 83.66% 686 1,116 5 7 4 0
+Courtland Township Precinct 2 2,502 2,069 82.69% 619 1,382 12 10 7 1
+Courtland Township Precinct 3 2,485 2,031 81.73% 645 1,332 11 6 3 1
+East Grand Rapids City Ward 1 Precinct 1 1,603 1,347 84.03% 796 523 0 4 3 0
+East Grand Rapids City Ward 1 Precinct 2 1,548 1,311 84.69% 694 590 2 5 2 0
+East Grand Rapids City Ward 2 Precinct 3 1,625 1,366 84.06% 809 539 2 5 0 0
+East Grand Rapids City Ward 2 Precinct 4 1,448 1,191 82.25% 737 437 0 8 1 0
+East Grand Rapids City Ward 3 Precinct 5 1,566 1,312 83.78% 833 460 2 7 0 1
+East Grand Rapids City Ward 3 Precinct 6 1,609 1,358 84.4% 872 468 2 4 3 0
+Gaines Charter Township Precinct 1 2,336 1,988 85.1% 486 1,447 10 9 1 2
+Gaines Charter Township Precinct 2 1,777 1,423 80.08% 599 785 9 6 1 1
+Gaines Charter Township Precinct 3 2,317 1,604 69.23% 555 1,002 17 8 4 2
+Gaines Charter Township Precinct 4 3,272 1,642 50.18% 790 753 37 25 2 5
+Gaines Charter Township Precinct 5 2,159 1,318 61.05% 747 515 17 14 5 4
+Gaines Charter Township Precinct 6 2,085 1,689 81.01% 535 1,122 9 9 1 1
+Gaines Charter Township Precinct 7 2,822 2,345 83.1% 770 1,522 10 16 1 1
+Gaines Charter Township Precinct 8 2,548 1,910 74.96% 723 1,118 15 20 5 2
+Gaines Charter Township Precinct 9 1,927 1,452 75.35% 752 666 8 6 1 3
+Grand Rapids Charter Township Precinct 1 1,706 1,380 80.89% 586 760 3 14 2 0
+Grand Rapids Charter Township Precinct 2 1,103 911 82.59% 446 449 3 3 0 0
+Grand Rapids Charter Township Precinct 3 1,904 1,585 83.25% 794 760 5 7 0 0
+Grand Rapids Charter Township Precinct 4 2,026 1,701 83.96% 827 834 3 9 3 1
+Grand Rapids Charter Township Precinct 5 2,017 1,654 82% 804 804 3 12 1 0
+Grand Rapids Charter Township Precinct 6 1,835 1,522 82.94% 684 783 12 17 3 1
+Grand Rapids Charter Township Precinct 7 1,087 802 73.78% 377 411 1 4 1 1
+Grand Rapids Charter Township Precinct 8 1,996 1,652 82.77% 775 852 4 6 0 1
+Grand Rapids Charter Township Precinct 9 1,257 1,079 85.84% 446 616 6 3 1 1
+Grand Rapids City Ward 1 Precinct 1 2,746 1,555 56.63% 1,038 447 21 29 2 1
+Grand Rapids City Ward 1 Precinct 2 1,467 749 51.06% 500 201 24 12 1 3
+Grand Rapids City Ward 1 Precinct 3 2,115 1,591 75.22% 1,106 448 9 12 1 1
+Grand Rapids City Ward 1 Precinct 4 1,902 1,403 73.76% 1,028 339 6 18 1 2
+Grand Rapids City Ward 1 Precinct 5 1,465 885 60.41% 587 254 10 21 0 0
+Grand Rapids City Ward 1 Precinct 6 2,288 1,822 79.63% 927 846 6 15 3 0
+Grand Rapids City Ward 1 Precinct 8 1,319 1,084 82.18% 629 426 7 12 1 1
+Grand Rapids City Ward 1 Precinct 9 3,094 1,273 41.14% 855 355 18 19 4 4
+Grand Rapids City Ward 1 Precinct 10 1,821 1,310 71.94% 786 470 14 12 5 2
+Grand Rapids City Ward 1 Precinct 11 1,772 1,459 82.34% 707 710 11 13 4 0
+Grand Rapids City Ward 1 Precinct 12 2,224 1,162 52.25% 783 314 20 17 3 3
+Grand Rapids City Ward 1 Precinct 13 2,455 1,359 55.36% 856 420 22 36 2 2
+Grand Rapids City Ward 1 Precinct 14 2,301 1,625 70.62% 960 588 22 29 4 2
+Grand Rapids City Ward 1 Precinct 15 2,315 934 40.35% 722 159 15 17 4 2
+Grand Rapids City Ward 1 Precinct 16 2,456 1,110 45.2% 873 178 16 11 6 3
+Grand Rapids City Ward 1 Precinct 17 2,537 1,561 61.53% 917 551 22 17 11 4
+Grand Rapids City Ward 1 Precinct 18 1,323 605 45.73% 495 68 14 4 4 2
+Grand Rapids City Ward 1 Precinct 19 2,393 1,365 57.04% 841 442 21 36 3 2
+Grand Rapids City Ward 1 Precinct 20 2,277 1,955 85.86% 929 966 12 13 3 1
+Grand Rapids City Ward 1 Precinct 21 1,964 1,654 84.22% 704 908 13 18 0 1
+Grand Rapids City Ward 1 Precinct 22 819 362 44.2% 279 59 10 6 1 0
+Grand Rapids City Ward 1 Precinct 23 1,903 1,584 83.24% 742 796 17 8 2 0
+Grand Rapids City Ward 1 Precinct 24 1,998 703 35.19% 594 73 8 11 7 0
+Grand Rapids City Ward 2 Precinct 25 1,398 975 69.74% 743 182 13 16 5 1
+Grand Rapids City Ward 2 Precinct 26 1,783 1,226 68.76% 786 396 8 12 5 0
+Grand Rapids City Ward 2 Precinct 27 1,400 967 69.07% 643 287 13 12 3 0
+Grand Rapids City Ward 2 Precinct 28 2,172 1,464 67.4% 979 432 17 19 3 1
+Grand Rapids City Ward 2 Precinct 29 2,107 1,113 52.82% 782 278 11 28 4 1
+Grand Rapids City Ward 2 Precinct 30 1,757 1,434 81.62% 977 420 1 18 3 1
+Grand Rapids City Ward 2 Precinct 31 2,472 1,535 62.1% 1,017 424 29 34 6 4
+Grand Rapids City Ward 2 Precinct 32 1,632 1,038 63.6% 706 298 3 8 2 2
+Grand Rapids City Ward 2 Precinct 33 1,000 767 76.7% 583 161 5 9 1 1
+Grand Rapids City Ward 2 Precinct 34 2,280 1,568 68.77% 997 507 13 21 5 2
+Grand Rapids City Ward 2 Precinct 35 2,006 1,590 79.26% 899 645 11 11 3 2
+Grand Rapids City Ward 2 Precinct 36 1,170 781 66.75% 490 252 12 8 6 0
+Grand Rapids City Ward 2 Precinct 37 2,590 2,035 78.57% 1,199 767 15 20 9 2
+Grand Rapids City Ward 2 Precinct 38 3,147 1,982 62.98% 1,344 565 9 26 6 2
+Grand Rapids City Ward 2 Precinct 39 1,103 701 63.55% 549 117 5 17 3 0
+Grand Rapids City Ward 2 Precinct 40 2,011 1,468 73% 1,138 273 6 24 3 2
+Grand Rapids City Ward 2 Precinct 41 2,583 1,916 74.18% 1,018 823 20 22 5 2
+Grand Rapids City Ward 2 Precinct 42 2,015 1,609 79.85% 999 556 13 15 3 1
+Grand Rapids City Ward 2 Precinct 43 1,919 1,476 76.92% 842 594 15 8 1 1
+Grand Rapids City Ward 2 Precinct 44 2,019 1,555 77.02% 831 683 11 12 3 0
+Grand Rapids City Ward 2 Precinct 45 2,230 1,763 79.06% 900 818 7 12 4 1
+Grand Rapids City Ward 2 Precinct 46 2,456 1,651 67.22% 932 659 15 12 6 9
+Grand Rapids City Ward 2 Precinct 47 1,847 1,519 82.24% 897 590 8 7 1 0
+Grand Rapids City Ward 2 Precinct 48 1,698 1,169 68.85% 867 264 9 15 0 2
+Grand Rapids City Ward 2 Precinct 49 2,224 1,441 64.79% 1,109 286 4 20 4 1
+Grand Rapids City Ward 2 Precinct 50 2,528 1,718 67.96% 1,399 267 10 29 1 0
+Grand Rapids City Ward 3 Precinct 51 1,978 1,224 61.88% 807 362 20 11 3 3
+Grand Rapids City Ward 3 Precinct 52 992 620 62.5% 526 78 2 10 2 0
+Grand Rapids City Ward 3 Precinct 53 2,847 2,027 71.2% 1,101 878 6 8 5 2
+Grand Rapids City Ward 3 Precinct 54 1,594 1,208 75.78% 642 540 3 6 1 1
+Grand Rapids City Ward 3 Precinct 55 2,274 1,791 78.76% 1,045 700 9 22 1 0
+Grand Rapids City Ward 3 Precinct 56 2,102 1,587 75.5% 919 625 16 8 3 1
+Grand Rapids City Ward 3 Precinct 57 1,356 994 73.3% 623 327 13 7 1 0
+Grand Rapids City Ward 3 Precinct 58 2,045 1,514 74.03% 913 567 10 8 2 2
+Grand Rapids City Ward 3 Precinct 59 2,518 1,932 76.73% 1,296 597 8 4 2 2
+Grand Rapids City Ward 3 Precinct 60 2,591 1,665 64.26% 1,373 246 11 16 4 3
+Grand Rapids City Ward 3 Precinct 61 943 686 72.75% 515 155 2 5 2 0
+Grand Rapids City Ward 3 Precinct 62 1,951 1,110 56.89% 907 163 12 7 3 1
+Grand Rapids City Ward 3 Precinct 63 1,992 1,159 58.18% 954 165 10 15 1 4
+Grand Rapids City Ward 3 Precinct 64 2,207 1,286 58.27% 947 284 15 16 5 5
+Grand Rapids City Ward 3 Precinct 65 2,143 1,250 58.33% 881 323 13 12 6 4
+Grand Rapids City Ward 3 Precinct 66 2,538 1,082 42.63% 965 84 9 11 3 2
+Grand Rapids City Ward 3 Precinct 67 3,004 1,410 46.94% 1,232 122 16 22 3 2
+Grand Rapids City Ward 3 Precinct 68 1,705 1,280 75.07% 974 290 5 5 1 1
+Grand Rapids City Ward 3 Precinct 69 1,437 1,154 80.31% 555 586 5 2 1 0
+Grand Rapids City Ward 3 Precinct 70 1,957 908 46.4% 779 84 12 9 3 5
+Grand Rapids City Ward 3 Precinct 71 1,785 1,196 67% 930 227 5 8 3 3
+Grand Rapids City Ward 3 Precinct 72 932 721 77.36% 480 213 3 11 0 1
+Grand Rapids City Ward 3 Precinct 73 1,174 913 77.77% 576 309 7 5 4 0
+Grand Rapids City Ward 3 Precinct 74 1,455 1,005 69.07% 680 297 13 2 4 2
+Grand Rapids City Ward 3 Precinct 75 1,362 827 60.72% 662 131 10 8 2 1
+Grand Rapids City Ward 3 Precinct 76 1,642 854 52.01% 730 81 13 7 3 6
+Grand Rapids City Ward 3 Precinct 77 1,393 1,121 80.47% 723 375 3 9 0 0
+Grandville City Precinct 1 2,043 1,590 77.83% 725 829 7 15 1 2
+Grandville City Precinct 2 2,123 1,558 73.39% 637 855 22 20 3 1
+Grandville City Precinct 3 2,273 1,764 77.61% 615 1,075 13 12 7 2
+Grandville City Precinct 4 2,091 1,788 85.51% 666 1,069 18 7 2 1
+Grandville City Precinct 5 2,302 1,821 79.11% 681 1,091 7 14 1 2
+Grandville City Precinct 6 1,818 1,449 79.7% 581 825 5 6 3 0
+Grattan Township Precinct 1 1,633 1,262 77.28% 355 872 7 11 1 2
+Grattan Township Precinct 2 1,737 1,418 81.64% 523 855 8 9 2 0
+Kentwood City Ward 1 Precinct 1 2,302 1,404 60.99% 763 579 22 13 5 1
+Kentwood City Ward 1 Precinct 2 3,016 2,186 72.48% 1,153 957 23 20 3 4
+Kentwood City Ward 1 Precinct 3 1,659 1,233 74.32% 645 547 12 12 3 0
+Kentwood City Ward 1 Precinct 4 1,520 913 60.07% 500 356 15 12 5 4
+Kentwood City Ward 1 Precinct 5 1,296 847 65.35% 403 410 6 8 3 2
+Kentwood City Ward 1 Precinct 6 2,561 1,568 61.23% 800 692 25 15 7 4
+Kentwood City Ward 1 Precinct 7 2,169 1,464 67.5% 895 519 20 11 2 0
+Kentwood City Ward 1 Precinct 8 2,525 1,980 78.42% 1,061 868 15 10 2 3
+Kentwood City Ward 1 Precinct 9 2,372 1,563 65.89% 907 583 27 13 3 5
+Kentwood City Ward 2 Precinct 10 2,411 1,846 76.57% 1,008 792 12 8 2 1
+Kentwood City Ward 2 Precinct 11 3,154 2,377 75.36% 1,319 1,004 6 9 4 0
+Kentwood City Ward 2 Precinct 12 1,814 1,330 73.32% 813 472 8 10 3 2
+Kentwood City Ward 2 Precinct 13 2,153 1,483 68.88% 795 652 9 10 2 0
+Kentwood City Ward 2 Precinct 14 886 636 71.78% 362 253 8 5 2 1
+Kentwood City Ward 2 Precinct 15 3,164 1,883 59.51% 1,267 534 16 24 8 4
+Kentwood City Ward 2 Precinct 16 2,805 2,222 79.22% 1,193 973 8 13 2 3
+Kentwood City Ward 2 Precinct 17 1,801 1,023 56.8% 682 303 18 6 1 0
+Kentwood City Ward 2 Precinct 18 2,285 1,340 58.64% 856 424 12 25 4 5
+Lowell Charter Township Precinct 1 2,604 2,080 79.88% 675 1,339 17 17 4 0
+Lowell Charter Township Precinct 2 2,521 1,869 74.14% 785 1,008 25 14 4 3
+Lowell City Precinct 1 1,686 1,223 72.54% 551 621 14 15 5 1
+Lowell City Precinct 2 1,538 997 64.82% 395 558 7 11 10 1
+Nelson Township Precinct 1 2,082 1,451 69.69% 418 982 20 11 2 0
+Nelson Township Precinct 2 1,772 1,363 76.92% 418 895 11 10 1 0
+Oakfield Township Precinct 1 1,633 1,266 77.53% 431 789 18 6 5 1
+Oakfield Township Precinct 2 1,968 1,426 72.46% 449 920 10 13 7 0
+Oakfield Township Precinct 3 1,456 1,094 75.14% 366 691 9 9 4 0
+Plainfield Charter Township Precinct 1 2,804 2,358 84.09% 930 1,378 10 14 4 4
+Plainfield Charter Township Precinct 2 2,556 2,023 79.15% 758 1,203 22 11 3 1
+Plainfield Charter Township Precinct 3 2,208 1,498 67.84% 716 731 14 11 10 3
+Plainfield Charter Township Precinct 4 2,461 1,814 73.71% 837 897 23 19 2 3
+Plainfield Charter Township Precinct 5 2,238 1,737 77.61% 758 898 24 23 2 2
+Plainfield Charter Township Precinct 6 3,310 2,627 79.37% 966 1,579 23 17 5 3
+Plainfield Charter Township Precinct 7 3,016 2,448 81.17% 1,042 1,369 9 8 1 1
+Plainfield Charter Township Precinct 8 2,948 2,276 77.2% 1,055 1,143 23 18 3 3
+Plainfield Charter Township Precinct 9 2,676 2,090 78.1% 854 1,169 15 16 1 2
+Plainfield Charter Township Precinct 10 1,886 1,604 85.05% 626 943 9 6 4 2
+Plainfield Charter Township Precinct 11 1,836 1,560 84.97% 617 900 10 17 2 0
+Rockford City Precinct 1 1,984 1,510 76.11% 710 744 16 10 2 2
+Rockford City Precinct 2 2,718 2,269 83.48% 1,049 1,168 12 13 1 0
+Solon Township Precinct 1 2,005 1,485 74.06% 462 973 19 8 1 3
+Solon Township Precinct 2 3,053 2,232 73.11% 644 1,505 20 21 3 3
+Sparta Township Precinct 1 3,274 2,236 68.3% 833 1,306 28 21 7 0
+Sparta Township Precinct 2 1,713 1,271 74.2% 359 863 18 12 5 0
+Sparta Township Precinct 3 2,145 1,569 73.15% 497 1,007 17 9 8 1
+Spencer Township Precinct 1 2,010 1,540 76.62% 448 1,035 12 7 5 3
+Spencer Township Precinct 2 1,376 1,054 76.6% 268 752 15 5 3 2
+Tyrone Township Precinct 1 1,932 1,429 73.96% 358 1,027 17 8 2 1
+Tyrone Township Precinct 2 1,700 1,129 66.41% 309 782 16 9 2 0
+Vergennes Township Precinct 1 2,008 1,762 87.75% 577 1,143 13 8 5 0
+Vergennes Township Precinct 2 1,728 1,458 84.38% 516 908 5 6 0 3
+Walker City Ward 1 Precinct 1 2,259 1,379 61.04% 766 551 14 20 6 2
+Walker City Ward 1 Precinct 2 1,835 1,419 77.33% 621 761 14 10 3 1
+Walker City Ward 1 Precinct 3 2,158 1,612 74.7% 747 808 14 17 1 1
+Walker City Ward 2 Precinct 4 2,488 1,995 80.18% 770 1,175 14 13 1 2
+Walker City Ward 2 Precinct 5 2,039 1,661 81.46% 676 928 15 13 2 1
+Walker City Ward 2 Precinct 6 2,044 1,524 74.56% 640 828 18 15 4 1
+Walker City Ward 3 Precinct 7 2,149 1,709 79.53% 747 921 12 6 2 1
+Walker City Ward 3 Precinct 8 2,017 1,672 82.9% 549 1,080 11 10 2 1
+Walker City Ward 3 Precinct 9 2,154 1,655 76.83% 722 881 8 17 7 1
+Wyoming City Ward 1 Precinct 1 1,955 1,216 62.2% 672 474 18 23 9 5
+Wyoming City Ward 1 Precinct 2 1,408 722 51.28% 397 278 14 10 2 0
+Wyoming City Ward 1 Precinct 3 2,310 1,321 57.19% 747 508 29 8 6 3
+Wyoming City Ward 1 Precinct 4 2,146 1,503 70.04% 722 728 9 14 5 1
+Wyoming City Ward 1 Precinct 5 2,255 1,435 63.64% 776 579 27 17 7 1
+Wyoming City Ward 1 Precinct 6 1,712 1,016 59.35% 533 431 20 11 5 0
+Wyoming City Ward 1 Precinct 7 2,094 1,497 71.49% 654 806 11 5 5 0
+Wyoming City Ward 1 Precinct 8 1,383 787 56.91% 394 350 15 11 4 3
+Wyoming City Ward 1 Precinct 9 2,506 1,400 55.87% 774 547 37 17 1 2
+Wyoming City Ward 2 Precinct 10 1,715 984 57.38% 567 380 12 9 1 4
+Wyoming City Ward 2 Precinct 11 1,589 856 53.87% 564 243 12 19 2 1
+Wyoming City Ward 2 Precinct 12 1,415 775 54.77% 454 273 12 8 10 3
+Wyoming City Ward 2 Precinct 13 1,768 1,123 63.52% 548 524 20 13 2 1
+Wyoming City Ward 2 Precinct 14 1,252 887 70.85% 403 440 10 13 3 2
+Wyoming City Ward 2 Precinct 15 1,022 687 67.22% 320 325 13 10 3 3
+Wyoming City Ward 2 Precinct 16 1,420 961 67.68% 437 480 12 10 1 0
+Wyoming City Ward 2 Precinct 17 2,161 1,113 51.5% 713 350 13 12 5 5
+Wyoming City Ward 2 Precinct 18 1,286 863 67.11% 438 391 8 7 4 1
+Wyoming City Ward 2 Precinct 19 2,032 1,379 67.86% 717 594 18 15 6 1
+Wyoming City Ward 2 Precinct 20 2,106 1,343 63.77% 697 586 17 21 4 2
+Wyoming City Ward 3 Precinct 21 2,469 1,712 69.34% 775 874 18 12 5 2
+Wyoming City Ward 3 Precinct 22 1,417 955 67.4% 481 451 7 7 2 3
+Wyoming City Ward 3 Precinct 23 2,515 1,478 58.77% 827 588 14 23 4 5
+Wyoming City Ward 3 Precinct 24 2,472 1,600 64.72% 734 809 22 12 4 1
+Wyoming City Ward 3 Precinct 25 1,783 1,451 81.38% 542 875 7 8 2 4
+Wyoming City Ward 3 Precinct 26 1,349 971 71.98% 481 455 11 7 1 1
+Wyoming City Ward 3 Precinct 27 1,310 967 73.82% 433 515 6 7 0 2
+Wyoming City Ward 3 Precinct 28 2,183 1,784 81.72% 675 1,070 7 7 6 0
+Wyoming City Ward 3 Precinct 29 1,839 1,538 83.63% 625 886 2 5 1 0
+Wyoming City Ward 3 Precinct 30 2,198 1,824 82.98% 598 1,181 10 6 1 1
