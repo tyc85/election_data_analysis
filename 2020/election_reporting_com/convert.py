@@ -4,6 +4,7 @@ import re
 import pandas as pd
 import pdb
 import argparse
+import glob
 
 
 def convert_to_csv(
@@ -27,22 +28,17 @@ def convert_to_csv(
                 # electionreporting.com specifc format
                 # assuming first 4 columns always the same
                 regex_string = (
-                    r'(?P<{}>[\w\s]+Precinct \d+)\s+' #precint
+                    r'(?P<{}>[\w\s]+(Precinct|AVCB)[\s\d\w]*)\s+' #precint
                     r'(?P<{}>[\d]+)\s+' #registred voter
                     r'(?P<{}>[\d]+)\s+' #ballot case
                     r'(?P<{}>[\d.\%]+)\s+' # turnout
-                    # r'(?P<{}>[\d]+)\s+'
-                    # r'(?P<{}>[\d]+)\s+'
-                    # r'(?P<{}>[\d]+)\s+'
-                    # r'(?P<{}>[\d]+)\s+'
-                    # r'(?P<{}>[\d]+)\s+'
-                    # r'(?P<{}>[\d]+)\s+'
-                    # r'(?P<{}>[\d]+)\s+'
                 ).format(
                     *header[0:4]
                 ) + ''.join(
                     [r'(?P<{}>[\d]+)\s+'.format(h) for h in header[4:]]
                 )
+
+
                 output_line = ','.join(header)
                 output_lines.append(output_line)
                 
@@ -53,14 +49,19 @@ def convert_to_csv(
             new_line = new_line.replace('%', '')
             ret = re.match(regex_string, new_line)
             if ret is None:
-                print(f'line does not match regex: \n{new_line}')
+                print(f'following line does not match regex: \n{new_line}')
                 print('press c to continue or q to quit')
+                split_line = new_line.split(' ')
+                output_line = ','.join(
+                    [' '.join(split_line[0:len(split_line) - len(header) + 1]),]
+                    + split_line[-len(header)+1:]
+                )
+                print(output_line)
                 pdb.set_trace()
-                continue
-
-            output_line = ','.join(
-                ret[x] for x in header
-            )
+            else:
+                output_line = ','.join(
+                    ret[x] for x in header
+                )
             output_lines.append(output_line)
             
         output_fp.writelines('\n'.join(output_lines))
@@ -69,19 +70,34 @@ def convert_to_csv(
 def main():
     parser = argparse.ArgumentParser(description='convertion to csv file')
     parser.add_argument(
-        'input_file_path', 
+        '-i',
+        dest='input_file_path', 
         type=str, 
         default='mi/kent/kent_county_president_cleaned.txt'
     )
     parser.add_argument(
-        'output_file_path', 
+        '-o',
+        dest='output_file_path', 
         type=str, 
         default='mi/kent/kent_county_president_cleaned.csv'
     )
+    parser.add_argument(
+        '-d',
+        dest='source_dir', 
+        type=str, 
+        default=None
+    )
     args = parser.parse_args()
+    if args.source_dir is None:
+        input_file_path = args.input_file_path
+        output_file_path = args.output_file_path
+    else:
+        input_file_path = args.input_file_path
+        output_file_path = args.output_file_path
+
     output_file_path = convert_to_csv(
-        args.input_file_path,
-        args.output_file_path
+        input_file_path,
+        output_file_path
     )
     print(f'csv file generated {output_file_path}')
     df = pd.read_csv(output_file_path, header=0)
