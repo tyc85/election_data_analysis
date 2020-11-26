@@ -1,5 +1,7 @@
 # election_data_analysis
 
+
+
 ## Data from electionreportin.com
 Since 2020 election data is not widely available yet, we used unofficial source to obtain preliminary data. Michigan unofficial data is obtained from https://electionreporting.com/
 ### Adding new data
@@ -22,5 +24,11 @@ Steps to add more data and use the included conversion script to produce csv dat
     - save the new file as city_of_detroit_straight_party_cleaned.txt, using straight party data as example
     
     
+### Analysis Methodology
+
+#### Presidents vs. Senator 
+
+#### Presidents vs. Straight Party 
+
 
 ## Data from Openelections
