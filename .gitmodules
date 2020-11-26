@@ -1,0 +1,6 @@
+[submodule "/Users/tyc/src/election_data_analysis/openelections/openelections-data-mi"]
+	path = /Users/tyc/src/election_data_analysis/openelections/openelections-data-mi
+	url = https://github.com/openelections/openelections-data-mi.git
+[submodule "/Users/tyc/src/election_data_analysis/openelections/openelections-data-pa"]
+	path = /Users/tyc/src/election_data_analysis/openelections/openelections-data-pa
+	url = https://github.com/openelections/openelections-data-pa.git
