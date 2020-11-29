@@ -1,8 +1,13 @@
 # election_data_analysis
-## Requirements and Steps the stasrt
+## Quickstart
 ### General
-- python 3.6+ 
-- run setup.sh, which will setup a virtualenv in python named election_analysis
+- make sure you have python 3.6+ 
+- run setup.sh, which will setup a virtualenv in python named election_analysis in home folder and activates it
+- run ./electioncom.py in terminal to generate pdf figures in the folder pdfs/ for avaialble counties 
+- can also start jupyter notebook by typeing ```jupyter notebook``` in terminal and open the notebook electioncom_2020.ipynb and execute the cell
+- to access openelctions.com data as submodule:
+    - git submodule init
+    - git submodule update
 
 
 ## Data from electionreportin.com
