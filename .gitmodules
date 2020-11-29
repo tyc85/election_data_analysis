@@ -1,0 +1,6 @@
+[submodule "openelections-data-mi"]
+	path = openelections/openelections-data-mi
+	url = https://github.com/openelections/openelections-data-mi.git
+[submodule "openelections-data-pa"]
+	path = openelections/openelections-data-pa
+	url = https://github.com/openelections/openelections-data-pa.git

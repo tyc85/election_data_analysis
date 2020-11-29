@@ -1,4 +1,14 @@
 # election_data_analysis
+## Quickstart
+### General
+- make sure you have python 3.6+ 
+- run setup.sh, which will setup a virtualenv in python named election_analysis in home folder and activates it
+- run ./electioncom.py in terminal to generate pdf figures in the folder pdfs/ for avaialble counties 
+- can also start jupyter notebook by typeing ```jupyter notebook``` in terminal and open the notebook electioncom_2020.ipynb and execute the cell
+- to access openelctions.com data as submodule:
+    - git submodule init
+    - git submodule update
+
 
 ## Data from electionreportin.com
 Since 2020 election data is not widely available yet, we used unofficial source to obtain preliminary data. Michigan unofficial data is obtained from https://electionreporting.com/
@@ -22,5 +32,14 @@ Steps to add more data and use the included conversion script to produce csv dat
     - save the new file as city_of_detroit_straight_party_cleaned.txt, using straight party data as example
     
     
+### Analysis Methodology
+
+#### Presidents vs. Senator 
+- for each precinct, compute the fraction voted for democratic and the republican presidential candidate
+- for each precinct, compute the fraction voted for democratic and the republican senator candidte
+- for each county, plot a scatter plot where X-axis is fractions voted for party A's senator candidate, and Y-axis is fractions voted for party A's presidential candidate
+
+#### Presidents vs. Straight Party 
+- Stright party votes is interesting but only available in certain states, e.g., Michigan
 
 ## Data from Openelections
