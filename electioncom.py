@@ -11,7 +11,6 @@ def main():
 
     state_abbreviation = 'mi'
     fig_counter_base = 100
-    pdb.set_trace()
     for county_folder in county_folder_list:
         county = county_folder.split('/')[-2]
         plot_president_vs_senator_per_county(

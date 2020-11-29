@@ -1,0 +1,67 @@
+TOTALS: 65 of 65	Registered voters	Ballots Cast	Turnout	Gary Peters	John James	Valerie L. Willis	Marcia Squier	Doug Dern	Total write-in
+TOTAL	134,248	92,595	68.97%	31,847	56,477	1,189	692	330	127
+Algonac City Precinct 1	1,538	1,134	73.73%	368	722	13	5	3	0
+Algonac City Precinct 2	1,996	1,345	67.38%	406	871	14	10	7	5
+Berlin Township Precinct 1	2,521	1,996	79.17%	460	1,478	12	9	4	1
+Brockway Township Precinct 1	1,611	1,187	73.68%	280	863	14	6	7	0
+Burtchville Township Precinct 2	1,606	1,192	74.22%	398	744	15	7	6	3
+Burtchville Township Precinct 3	1,928	1,234	64%	518	655	21	10	2	2
+Casco Township Precinct 1	1,656	1,027	62.02%	300	681	11	10	5	0
+Casco Township Precinct 2	1,659	1,315	79.26%	383	873	17	5	2	3
+China Township Precinct 1	1,667	1,268	76.06%	400	812	9	6	1	3
+China Township Precinct 2	1,326	953	71.87%	258	643	11	7	1	2
+Clay Township Precinct 1	2,488	1,712	68.81%	460	1,171	18	10	9	4
+Clay Township Precinct 3	2,003	1,582	78.98%	428	1,095	16	6	6	0
+Clay Township Precinct 4	1,049	850	81.03%	267	557	3	6	4	0
+Clay Township Precinct 5	2,386	1,748	73.26%	466	1,215	17	10	6	2
+Clyde Township Precinct 1	2,918	2,222	76.15%	735	1,406	26	10	6	2
+Clyde Township Precinct 2	1,778	1,257	70.7%	392	814	21	7	6	1
+Columbus Township Precinct 1	1,998	1,574	78.78%	357	1,156	13	5	4	4
+Columbus Township Precinct 3	1,353	990	73.17%	264	675	18	7	2	0
+Cottrellville Township Precinct 1	2,929	2,169	74.05%	621	1,436	30	14	13	2
+East China Township Precinct 1	3,276	2,495	76.16%	848	1,513	32	22	6	3
+Emmett Township Precinct 1	2,036	1,585	77.85%	449	1,078	20	7	5	2
+Fort Gratiot Township Precinct 1	2,665	1,851	69.46%	815	968	23	16	3	1
+Fort Gratiot Township Precinct 2	2,304	1,619	70.27%	606	953	12	13	4	2
+Fort Gratiot Township Precinct 3	1,798	1,285	71.47%	507	718	25	5	3	1
+Fort Gratiot Township Precinct 4	3,081	2,235	72.54%	855	1,295	20	15	6	0
+Grant Township Precinct 1	1,553	1,168	75.21%	329	771	20	9	6	0
+Greenwood Township Precinct 1	1,195	892	74.64%	270	587	13	5	1	2
+Ira Township Precinct 1	2,052	1,370	66.76%	467	852	13	12	2	4
+Ira Township Precinct 2	2,009	1,573	78.3%	355	1,161	18	8	7	2
+Kenockee Township Precinct 1	2,021	1,458	72.14%	428	986	9	4	5	0
+Kimball Township Precinct 1	2,202	1,390	63.12%	484	832	28	11	14	1
+Kimball Township Precinct 2	2,904	1,872	64.46%	596	1,186	41	11	4	5
+Kimball Township Precinct 3	3,066	2,065	67.35%	616	1,344	26	18	6	5
+Lynn Township Precinct 1	978	735	75.15%	200	507	6	6	1	0
+Marine City Precinct 1	1,631	1,118	68.55%	454	605	17	15	4	1
+Marine City Precinct 2	1,913	1,187	62.05%	418	690	15	11	10	4
+Marysville City Precinct 1	2,547	1,754	68.87%	655	1,026	18	15	2	4
+Marysville City Precinct 2	1,972	1,372	69.57%	570	736	14	11	3	2
+Marysville City Precinct 3	1,802	1,334	74.03%	464	819	13	6	3	3
+Marysville City Precinct 4	2,313	1,685	72.85%	673	931	17	9	4	3
+Memphis City Precinct 2	265	201	75.85%	73	122	2	0	1	0
+Mussey Township Precinct 1	3,287	2,234	67.96%	634	1,505	25	13	10	3
+Port Huron City Precinct 1	2,142	1,477	68.95%	726	686	18	12	4	2
+Port Huron City Precinct 2	1,973	1,449	73.44%	676	698	18	18	2	2
+Port Huron City Precinct 3	2,182	1,550	71.04%	655	820	17	10	9	0
+Port Huron City Precinct 4	2,375	1,269	53.43%	564	624	31	15	9	5
+Port Huron City Precinct 5	2,186	1,055	48.26%	518	457	21	15	6	2
+Port Huron City Precinct 6	2,441	1,292	52.93%	584	597	34	21	12	7
+Port Huron City Precinct 7	2,459	937	38.1%	477	377	24	25	10	2
+Port Huron City Precinct 8	2,672	1,377	51.53%	658	620	29	27	7	3
+Port Huron City Precinct 9	2,374	1,306	55.01%	630	607	19	19	9	3
+Port Huron City Precinct 10	2,375	1,168	49.18%	668	419	27	17	5	2
+Port Huron Township Precinct 1	2,244	1,567	69.83%	561	938	19	11	5	2
+Port Huron Township Precinct 2	2,085	1,534	73.57%	576	907	12	7	5	0
+Port Huron Township Precinct 3	2,002	1,172	58.54%	483	629	19	7	4	2
+Port Huron Township Precinct 4	2,215	1,094	49.39%	475	543	33	15	12	1
+Richmond City Precinct 1	3	1	33.33%	0	1	0	0	0	0
+Riley Township Precinct 1	2,668	2,082	78.04%	497	1,501	28	12	4	4
+St. Clair City Precinct 1	1,510	1,175	77.81%	417	714	12	10	3	2
+St. Clair City Precinct 2	1,579	1,190	75.36%	458	692	11	4	2	0
+St. Clair City Precinct 3	1,501	1,087	72.42%	417	617	20	5	1	0
+St. Clair Township Precinct 1	3,075	2,472	80.39%	792	1,602	13	9	4	1
+St. Clair Township Precinct 2	2,839	2,158	76.01%	607	1,448	19	14	3	2
+Wales Township Precinct 1	2,666	2,019	75.73%	580	1,342	29	18	8	1
+Yale City Precinct 1	1,402	931	66.41%	301	586	10	9	2	2

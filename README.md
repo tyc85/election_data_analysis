@@ -1,5 +1,8 @@
 # election_data_analysis
-
+## Requirements and Steps the stasrt
+### General
+- python 3.6+ 
+- run setup.sh, which will setup a virtualenv in python named election_analysis
 
 
 ## Data from electionreportin.com
@@ -27,8 +30,11 @@ Steps to add more data and use the included conversion script to produce csv dat
 ### Analysis Methodology
 
 #### Presidents vs. Senator 
+- for each precinct, compute the fraction voted for democratic and the republican presidential candidate
+- for each precinct, compute the fraction voted for democratic and the republican senator candidte
+- for each county, plot a scatter plot where X-axis is fractions voted for party A's senator candidate, and Y-axis is fractions voted for party A's presidential candidate
 
 #### Presidents vs. Straight Party 
-
+- Stright party votes is interesting but only available in certain states, e.g., Michigan
 
 ## Data from Openelections

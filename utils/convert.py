@@ -15,7 +15,6 @@ def clean_txt_file(
     only clean up the tabs. still need to manually create comma separate headers
     '''
     counter = 0
-    pdb.set_trace()
     with open(input_file_path, 'r') as input_fp, open(output_file_path, 'w') as output_fp:
         for line in input_fp.readlines():
             # second line always total tally and needs to be removed
@@ -61,11 +60,14 @@ def convert_to_csv(input_file_path, output_file_path):
                     [r'(?P<{}>[\d]+)\s+'.format(h) for h in header[4:]]
                 )
 
-
                 output_line = ','.join(header)
                 output_lines.append(output_line)
                 
                 counter += 1
+                continue
+
+            if '(Out of County)' in line:
+                print(f'skipping entry with (Out of County)\n: {line}')
                 continue
 
             new_line = line.replace(',', '')
@@ -129,6 +131,7 @@ def main():
     )
     print(f'csv file generated {output_file_path}')
     df = pd.read_csv(output_file_path, header=0)
+    print(df)
 
 
 def convert_pipline(file_path):

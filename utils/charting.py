@@ -48,32 +48,50 @@ def plot_president_vs_senator_per_county(
         elif 'republican_party' in x:
             sp_reb_key = x
 
-    df_diff_dem = df_merge[biden_key] - df_merge[senator_dem_key]
-    df_diff_rep = df_merge[trump_key] - df_merge[senator_rep_key]
+    total_president_series = df_merge[biden_key] + df_merge[trump_key]
+    df_president_percentage_dem = df_merge[biden_key]/total_president_series
+    df_president_percentage_rep = df_merge[trump_key]/total_president_series
+
+    df_diff_dem = df_merge[biden_key]/total_president_series - df_merge[senator_dem_key]
+    df_diff_rep = df_merge[trump_key]/total_president_series - df_merge[senator_rep_key]
+
     total_senator_series = df_merge[senator_dem_key]+df_merge[senator_rep_key]
     df_senator_percentage_dem = df_merge[senator_dem_key]/total_senator_series
     df_senator_percentage_rep = df_merge[senator_rep_key]/total_senator_series
 
     fig_counter += 1
     plt.figure(fig_counter)
-    titile = f'republican {state_abbreviation} {county}'
-    plt.title(titile)
-
-    plt.scatter(df_senator_percentage_rep, df_diff_rep)
-    
+    party = 'republican'
+    title = f'{party} {state_abbreviation} {county}'
+    plt.title(title)
+    # plt.scatter(df_senator_percentage_rep, df_diff_rep)
+    plt.scatter(df_senator_percentage_rep, df_president_percentage_rep)
+    plt.xlabel(f'senator votes fractions for {party}')
+    plt.ylabel(f'president votes fractions for {party}')
     if save_figure:
-        plt.savefig(titile.replace(' ', '_')+'.pdf')
+        filename = 'pdfs/'+title.replace(' ', '_')+'.pdf'
+        plt.savefig(filename)
+        print(f'saving figure {filename}')
     else:
         plt.draw()
         plt.pause(0.001)
 
     fig_counter += 1
     plt.figure(fig_counter)
-    plt.title(f'democrats, {state_abbreviation}, {county}')
-    plt.scatter(df_senator_percentage_dem, df_diff_dem)
+    party = 'democrats'
+    title = f'{party} {state_abbreviation} {county}'
+    plt.title(title)
+    # plt.scatter(df_senator_percentage_dem, df_diff_dem)
+    plt.scatter(df_senator_percentage_dem, df_president_percentage_dem)
+    plt.xlabel(f'senator votes fractions for {party}')
+    plt.ylabel(f'president votes fractions for {party}')
+    plt.xlim(0, 1)
+    plt.ylim(0, 1)
     
     if save_figure:
-        plt.savefig(titile.replace(' ', '_')+'.pdf')
+        filename = 'pdfs/'+title.replace(' ', '_')+'.pdf'
+        print(f'saving figure {filename}')
+        plt.savefig(filename)
     else:
         plt.draw()
         plt.pause(0.001)
