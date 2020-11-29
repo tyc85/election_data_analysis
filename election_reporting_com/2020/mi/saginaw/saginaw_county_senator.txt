@@ -1,0 +1,87 @@
+TOTALS: 85 of 85	Registered voters	Ballots Cast	Turnout	Gary Peters	John James	Valerie L. Willis	Marcia Squier	Doug Dern	Total write-in
+TOTAL	156,856	104,013	66.31%	51,520	49,209	860	525	210	95
+Albee Township Precinct 1	1,662	1,121	67.45%	440	629	15	3	5	1
+Birch Run Township Precinct 1	2,077	1,509	72.65%	583	875	15	7	5	1
+Birch Run Township Precinct 2	1,240	834	67.26%	385	416	6	3	2	2
+Birch Run Township Precinct 3	1,557	1,296	83.24%	356	904	13	5	1	1
+Blumfield Township Precinct 1	1,593	1,318	82.74%	299	983	8	3	0	2
+Brady Township Precinct 1	1,681	1,173	69.78%	412	719	11	5	3	1
+Brant Township Precinct 1	1,540	1,093	70.97%	340	726	10	0	1	0
+Bridgeport Township Precinct 1	950	600	63.16%	309	266	5	2	3	2
+Bridgeport Township Precinct 2	2,068	1,045	50.53%	629	380	15	3	5	1
+Bridgeport Township Precinct 3	1,909	1,375	72.03%	500	822	12	6	3	0
+Bridgeport Township Precinct 4	2,485	1,536	61.81%	1,186	309	15	10	2	1
+Bridgeport Township Precinct 5	1,298	937	72.19%	362	537	9	3	6	1
+Buena Vista Charter Township Precinct 1	1,177	679	57.69%	300	353	7	7	0	0
+Buena Vista Charter Township Precinct 2	1,493	764	51.17%	695	55	5	4	2	1
+Buena Vista Charter Township Precinct 3	1,631	675	41.39%	626	29	4	4	2	0
+Buena Vista Charter Township Precinct 4	1,606	600	37.36%	514	69	8	0	3	0
+Buena Vista Charter Township Precinct 5	1,797	990	55.09%	811	166	7	1	0	1
+Carrollton Township Precinct 1	1,865	1,216	65.2%	716	461	15	6	2	0
+Carrollton Township Precinct 2	2,829	1,717	60.69%	955	687	29	18	1	4
+Chapin Township Precinct 1	750	485	64.67%	138	321	8	2	6	2
+Chesaning Township Precinct 1	1,826	1,200	65.72%	604	545	8	13	4	1
+Chesaning Township Precinct 2	1,902	1,402	73.71%	563	783	17	8	5	2
+City of Frankenmuth Precinct 1	2,268	1,888	83.25%	603	1,251	6	10	1	0
+City of Frankenmuth Precinct 2	1,838	1,477	80.36%	415	1,014	9	6	2	2
+City of Saginaw Precinct 1	2,588	1,226	47.37%	1,162	29	11	8	2	3
+City of Saginaw Precinct 2	1,484	652	43.94%	593	37	5	7	2	0
+City of Saginaw Precinct 3	2,608	1,024	39.26%	927	70	7	8	4	3
+City of Saginaw Precinct 4	1,873	804	42.93%	705	73	8	2	1	3
+City of Saginaw Precinct 5	1,587	616	38.82%	553	32	12	7	3	0
+City of Saginaw Precinct 6	2,077	961	46.27%	886	45	9	7	2	2
+City of Saginaw Precinct 7	2,283	1,135	49.72%	1,033	69	11	5	3	2
+City of Saginaw Precinct 8	1,930	853	44.2%	790	33	8	6	4	3
+City of Saginaw Precinct 9	2,108	1,009	47.87%	696	274	17	6	4	2
+City of Saginaw Precinct 10	2,625	1,384	52.72%	857	478	15	9	2	5
+City of Saginaw Precinct 11	2,758	1,338	48.51%	860	425	24	8	2	2
+City of Saginaw Precinct 12	2,842	1,189	41.84%	834	293	23	13	3	2
+City of Saginaw Precinct 13	2,367	1,325	55.98%	892	389	16	12	1	0
+City of Saginaw Precinct 14	2,785	1,825	65.53%	1,159	605	21	9	3	1
+City of Saginaw Precinct 15	2,996	1,507	50.3%	1,007	435	14	21	3	3
+City of Saginaw Precinct 16	2,897	1,863	64.31%	1,148	655	15	9	4	1
+City of Zilwaukee Precinct 1	1,320	930	70.45%	406	487	8	3	2	4
+Frankenmuth Township Precinct 1	1,571	1,327	84.47%	355	946	2	7	3	0
+Fremont Township Precinct 1	1,709	1,307	76.48%	417	859	9	7	0	1
+James Township Precinct 1	1,607	1,224	76.17%	445	736	7	1	3	1
+Jonesfield Township Precinct 1	1,323	984	74.38%	328	623	11	5	4	0
+Kochville Township Precinct 1	1,967	1,394	70.87%	565	782	14	9	3	4
+Lakefield Township Precinct 1	763	593	77.72%	183	395	3	2	2	0
+Maple Grove Township Precinct 1	2,148	1,690	78.68%	648	985	12	5	2	0
+Marion Township Precinct 1	610	446	73.11%	116	308	7	3	3	0
+Richland Township Precinct 1	1,769	1,338	75.64%	424	883	10	3	1	0
+Richland Township Precinct 2	1,648	1,294	78.52%	391	853	18	3	2	0
+Saginaw Township Precinct 1	2,268	1,401	61.77%	856	508	12	5	1	0
+Saginaw Township Precinct 2	1,635	1,295	79.2%	612	654	7	4	1	0
+Saginaw Township Precinct 3	1,654	1,292	78.11%	666	589	6	8	2	1
+Saginaw Township Precinct 4	1,333	1,037	77.79%	471	540	2	12	0	0
+Saginaw Township Precinct 5	2,579	1,889	73.25%	935	897	16	12	2	1
+Saginaw Township Precinct 6	2,454	1,829	74.53%	920	857	17	5	0	0
+Saginaw Township Precinct 7	2,738	2,003	73.16%	1,055	895	14	6	1	2
+Saginaw Township Precinct 8	1,414	1,113	78.71%	571	512	7	5	0	0
+Saginaw Township Precinct 9	2,064	1,609	77.96%	777	797	5	7	4	0
+Saginaw Township Precinct 10	2,610	1,850	70.88%	962	845	8	11	3	1
+Saginaw Township Precinct 11	2,538	1,631	64.26%	1,003	567	11	11	6	2
+Saginaw Township Precinct 12	1,981	1,563	78.9%	747	774	7	5	4	1
+Saginaw Township Precinct 13	2,778	2,004	72.14%	1,099	834	15	12	2	2
+Saginaw Township Precinct 14	2,482	1,875	75.54%	870	963	9	7	1	3
+Saginaw Township Precinct 15	984	813	82.62%	362	431	7	2	0	0
+Saginaw Township Precinct 16	2,774	2,154	77.65%	961	1,133	9	9	7	5
+Spaulding Township Precinct 1	1,772	1,107	62.47%	553	526	9	6	1	1
+St. Charles Township Precinct 1	1,139	794	69.71%	256	509	8	3	3	0
+St. Charles Township Precinct 2	1,438	911	63.35%	345	524	12	9	3	2
+Swan Creek Township Precinct 1	2,038	1,600	78.51%	490	1,049	12	12	6	1
+Taymouth Township Precinct 1	1,404	1,015	72.29%	396	585	12	4	1	1
+Taymouth Township Precinct 2	2,021	1,517	75.06%	598	855	13	9	4	1
+Thomas Township Precinct 1	1,389	1,111	79.99%	362	732	3	0	3	0
+Thomas Township Precinct 2	1,639	1,221	74.5%	507	676	7	4	2	1
+Thomas Township Precinct 3	1,872	1,372	73.29%	499	832	11	6	5	0
+Thomas Township Precinct 4	1,180	945	80.08%	290	629	6	1	2	1
+Thomas Township Precinct 5	1,470	1,094	74.42%	454	607	7	4	1	0
+Thomas Township Precinct 6	1,375	995	72.36%	387	592	5	5	1	0
+Thomas Township Precinct 7	1,319	1,070	81.12%	385	637	6	7	3	0
+Tittabawassee Township Precinct 1	2,212	1,741	78.71%	628	1,046	8	7	4	0
+Tittabawassee Township Precinct 2	1,753	1,425	81.29%	481	915	6	3	2	0
+Tittabawassee Township Precinct 3	1,298	996	76.73%	321	643	3	5	2	0
+Tittabawassee Township Precinct 4	1,912	1,530	80.02%	566	930	4	5	1	1
+Zilwaukee Township Precinct 1	54	43	79.63%	14	27	2	0	0	0

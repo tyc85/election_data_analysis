@@ -7,10 +7,33 @@ import argparse
 import glob
 
 
-def convert_to_csv(
-    input_file_path='mi/kent/kent_county_president_cleaned.txt',
-    output_file_path='mi/kent/kent_county_president_cleaned.csv'
+def clean_txt_file(
+    input_file_path='./election_reporting_com/2020/mi/saginaw/saginaw_county_president.txt', 
+    output_file_path='./election_reporting_com/2020/mi/saginaw/saginaw_county_president_cleaned.csv'
 ):
+    '''
+    only clean up the tabs. still need to manually create comma separate headers
+    '''
+    counter = 0
+    pdb.set_trace()
+    with open(input_file_path, 'r') as input_fp, open(output_file_path, 'w') as output_fp:
+        for line in input_fp.readlines():
+            # second line always total tally and needs to be removed
+            counter += 1
+            if 'TOTAL\t' in line or 'TOTAL ' in line:
+                continue
+            
+            new_line = line.replace('\t', ' ')
+            output_fp.write(new_line)
+
+            
+    return output_file_path
+
+def convert_to_csv(input_file_path, output_file_path):
+    '''
+    convert cleaned txt file copied from election.com table to csv file
+    refer to README.md in root folder to contribute to "cleaned" data
+    '''
     with open(input_file_path, 'r') as input_fp, open(output_file_path, 'w') as output_fp:
         counter = 0
         output_lines = []
@@ -28,7 +51,7 @@ def convert_to_csv(
                 # electionreporting.com specifc format
                 # assuming first 4 columns always the same
                 regex_string = (
-                    r'(?P<{}>[\w\s]+(Precinct|AVCB)[\s\d\w]*)\s+' #precint
+                    r'(?P<{}>[\w.\s]+(Precinct|AVCB)[\s\d\w]*)\s+' #precint
                     r'(?P<{}>[\d]+)\s+' #registred voter
                     r'(?P<{}>[\d]+)\s+' #ballot case
                     r'(?P<{}>[\d.\%]+)\s+' # turnout
@@ -49,14 +72,19 @@ def convert_to_csv(
             new_line = new_line.replace('%', '')
             ret = re.match(regex_string, new_line)
             if ret is None:
-                print(f'following line does not match regex: \n{new_line}')
-                print('press c to continue or q to quit')
+                print(
+                    f'following line does not match regex {regex_string}: '
+                    f'\n{new_line}'
+                )
+
                 split_line = new_line.split(' ')
                 output_line = ','.join(
                     [' '.join(split_line[0:len(split_line) - len(header) + 1]),]
                     + split_line[-len(header)+1:]
                 )
+                print('attempting a different match:')
                 print(output_line)
+                print('press c to accept this match and continue or q to quit')
                 pdb.set_trace()
             else:
                 output_line = ','.join(
@@ -103,6 +131,15 @@ def main():
     df = pd.read_csv(output_file_path, header=0)
 
 
+def convert_pipline(file_path):
+    cleaned_txt_file_list = glob.glob(file_path.rstrip('/')+'/*cleaned.txt')
+    for f in cleaned_txt_file_list:
+        input_file_path = f
+        output_file_path = f.replace('.txt', '.csv')
+        print(
+            f'converting {input_file_path} to {output_file_path}'
+        )
+        convert_to_csv(input_file_path, output_file_path)
 
             
 
