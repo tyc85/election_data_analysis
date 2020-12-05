@@ -1,0 +1,22 @@
+Precinct, Registered voters, Ballots Cast, Turnout, Gary Peters DEM, John James REP, Valerie L. Willis, Marcia Squier, Doug Dern, Total write-in
+Arcada Township Pecinct 1 1,429 999 69.91% 354 617 8 4 1 3
+Bethany Township Pecinct 1 1,096 780 71.17% 217 541 4 7 0 0
+City of Alma Precinct 1 1,581 1,109 70.15% 556 527 3 6 1 0
+City of Alma Precinct 2 2,231 1,339 60.02% 609 667 14 20 7 4
+City of Alma Precinct 3 2,317 1,289 55.63% 575 660 21 7 5 2
+City of Ithaca Precinct 1 2,189 1,543 70.49% 619 880 14 2 2 1
+City of St. Louis Precinct 1 2,837 1,743 61.44% 702 973 17 14 5 0
+Elba Township Precinct 1 933 680 72.88% 205 448 6 4 4 0
+Emerson Township Precinct 1 736 502 68.21% 170 320 2 2 0 0
+Fulton Township Precinct 1 1,982 1,424 71.85% 471 908 12 12 2 0
+Hamilton Township Precinct 1 339 231 68.14% 69 154 3 0 0 0
+Lafayette Township Precinct 1 445 332 74.61% 95 233 0 0 0 0
+New Haven Township Precinct 1 737 508 68.93% 143 346 5 5 1 1
+Newark Township Precinct 1 714 513 71.85% 144 354 3 2 3 0
+North Shade Township Precinct 1 385 301 78.18% 76 215 0 0 2 0
+North StarTownship Precinct 1 663 501 75.57% 162 324 4 1 2 0
+Pine River Township Precinct 1 1,932 1,376 71.22% 474 860 12 8 3 0
+Seville Township Precinct 1 1,743 1,186 68.04% 339 805 11 4 5 1
+Sumner Township Precinct 1 1,478 999 67.59% 315 648 9 7 9 1
+Washington Township Precinct 1 668 507 75.9% 127 359 1 10 0 0
+Wheeler Township Precinct 1 1,978 1,392 70.37% 434 908 16 11 3 3

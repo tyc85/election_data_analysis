@@ -30,7 +30,9 @@ Steps to add more data and use the included conversion script to produce csv dat
     - replace the string "TOTALS: X of Y" in the first line with Precinct
     - add a comma as delimiter for the first line, which is to be used as header/columns for pandas dataframe
     - save the new file as city_of_detroit_straight_party_cleaned.txt, using straight party data as example
-    
+7. run convert.py in utils folder with -d flag specifying the path to cleaned data, e.g., 
+    ```$ utils/convert.py -d elections_reporting_com/2020/mi/kent/```
+8. check the output csv files in the same folder
     
 ### Analysis Methodology
 
@@ -41,5 +43,20 @@ Steps to add more data and use the included conversion script to produce csv dat
 
 #### Presidents vs. Straight Party 
 - Stright party votes is interesting but only available in certain states, e.g., Michigan
+
+
+#### Precincts Attributes
+Summarize the attributes of the anomaly precincts and see if there are signs of vulnerabilities and attmpts to visualize
+- Precinct populations (use the size of the dots)
+- Precinct demographics (use color of the dots)
+- Precinct background
+
+#### Vote Count Transaction
+- Election night
+- Post-election night
+
+
+#### Hypothesis
+- Ratio of the transactions are consistent across different counties
 
 ## Data from Openelections
