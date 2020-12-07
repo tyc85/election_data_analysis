@@ -1,4 +1,4 @@
-precinct,registered_voters,ballots_cast,turnout,joseph_r_biden_w_kamala_d_harris_dem,donald_j_trump_w_michael_r_pence_rep,jo_jorgensen_w_jeremy_cohen,don_blankenship_w_william_mohr,howie_hawkins_w_angela_walker,rocky_de_la_fuente_w_darcy_richardson,total_write_in
+precinct,registered_voters,ballots_cast,turnout,joseph_r_bidenkamala_d_harris,donald_j_trumpmichael_r_pence,jo_jorgensenjeremy_cohen,don_blankenshipwilliam_mohr,howie_hawkinsangela_walker,rocky_de_la_fuentedarcy_richardson,total_write_in
 Ada Township Precinct 1,1316,1090,82.83,589,472,13,1,0,0,0
 Ada Township Precinct 2,2428,1979,81.51,1043,886,28,1,5,1,0
 Ada Township Precinct 3,1397,1152,82.46,512,592,28,2,3,0,0
@@ -72,7 +72,7 @@ Grand Rapids Charter Township Precinct 1,1706,1380,80.89,674,674,13,2,2,0,0
 Grand Rapids Charter Township Precinct 2,1103,911,82.59,466,430,9,2,0,0,0
 Grand Rapids Charter Township Precinct 3,1904,1585,83.25,901,636,16,2,1,1,0
 Grand Rapids Charter Township Precinct 4,2026,1701,83.96,933,721,25,1,5,1,0
-Grand Rapids Charter Township Precinct 5,2017,1654,82,896,714,17,0,4,1,0
+Grand Rapids Charter Township Precinct,5,2017,1654,82,896,714,17,0,4,1
 Grand Rapids Charter Township Precinct 6,1835,1522,82.94,741,733,27,1,6,1,0
 Grand Rapids Charter Township Precinct 7,1087,802,73.78,380,406,6,0,2,2,0
 Grand Rapids Charter Township Precinct 8,1996,1652,82.77,884,722,28,1,1,0,0
@@ -94,7 +94,7 @@ Grand Rapids City Ward 1 Precinct 15,2315,934,40.35,766,151,7,3,4,0,0
 Grand Rapids City Ward 1 Precinct 16,2456,1110,45.2,898,181,10,1,5,5,0
 Grand Rapids City Ward 1 Precinct 17,2537,1488,58.65,934,502,29,5,6,0,0
 Grand Rapids City Ward 1 Precinct 18,1323,600,45.35,515,64,8,1,1,3,0
-Grand Rapids City Ward 1 Precinct 19,2393,1364,57,892,425,26,3,8,1,0
+Grand Rapids City Ward 1 Precinct,19,2393,1364,57,892,425,26,3,8,1
 Grand Rapids City Ward 1 Precinct 20,2277,1955,85.86,996,900,32,5,3,1,0
 Grand Rapids City Ward 1 Precinct 21,1964,1655,84.27,766,833,28,4,11,2,0
 Grand Rapids City Ward 1 Precinct 22,819,362,44.2,297,55,7,0,0,0,0
@@ -115,7 +115,7 @@ Grand Rapids City Ward 2 Precinct 36,1170,776,66.32,512,249,6,3,2,2,0
 Grand Rapids City Ward 2 Precinct 37,2590,2034,78.53,1274,705,28,4,6,2,0
 Grand Rapids City Ward 2 Precinct 38,3147,2069,65.75,1557,455,33,1,6,2,0
 Grand Rapids City Ward 2 Precinct 39,1103,701,63.55,584,88,20,1,3,1,0
-Grand Rapids City Ward 2 Precinct 40,2011,1468,73,1216,209,17,2,8,1,0
+Grand Rapids City Ward 2 Precinct,40,2011,1468,73,1216,209,17,2,8,1
 Grand Rapids City Ward 2 Precinct 41,2583,1916,74.18,1075,789,27,2,7,1,0
 Grand Rapids City Ward 2 Precinct 42,2015,1609,79.85,1056,501,32,3,4,0,0
 Grand Rapids City Ward 2 Precinct 43,1919,1476,76.92,901,529,28,3,5,1,0

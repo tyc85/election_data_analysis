@@ -1,4 +1,4 @@
-Precinct, Registered voters, Ballots Cast, Turnout, Joseph R. Biden w/ Kamala D. Harris DEM, Donald J. Trump / Michael R. Pence REP, Jo Jorgensen w/ Jeremy Cohen, Don Blankenship w/ William Mohr, Howie Hawkins w/ Angela Walker, Rocky De La Fuente w/ Darcy Richardson, Total write-in
+Precinct, Registered voters, Ballots Cast, Turnout, Joseph R. Biden/Kamala D. Harris, Donald J. Trump/Michael R. Pence, Jo Jorgensen/Jeremy Cohen, Don Blankenship/William Mohr, Howie Hawkins/Angela Walker, Rocky De La Fuente/Darcy Richardson, Total write-in
 Algonac City Precinct 1 1,538 1,134 73.73% 350 764 9 1 2 1 0
 Algonac City Precinct 2 1,996 1,345 67.38% 386 916 24 3 4 1 2
 Berlin Township Precinct 1 2,521 1,996 79.17% 437 1,523 21 2 6 0 1

@@ -1,4 +1,4 @@
-Precinct, Registered voters, Ballots Cast, Turnout, Joseph R. Biden w/ Kamala D. Harris DEM, Donald J. Trump w/ Michael R. Pence REP, Jo Jorgensen w/ Jeremy Cohen, Don Blankenship w/ William Mohr, Howie Hawkins w/ Angela Walker, Rocky De La Fuente w/ Darcy Richardson, Total write-in
+Precinct, Registered voters, Ballots Cast, Turnout, Joseph R. Biden/Kamala D. Harris, Donald J. Trump/Michael R. Pence, Jo Jorgensen/Jeremy Cohen, Don Blankenship/William Mohr, Howie Hawkins/Angela Walker, Rocky De La Fuente/Darcy Richardson, Total write-in
 Albee Township Precinct 1 1,662 1,121 67.45% 393 707 13 0 1 1 0
 Birch Run Township Precinct 1 2,077 1,509 72.65% 537 942 17 3 2 1 2
 Birch Run Township Precinct 2 1,240 834 67.26% 359 461 5 1 6 0 0
