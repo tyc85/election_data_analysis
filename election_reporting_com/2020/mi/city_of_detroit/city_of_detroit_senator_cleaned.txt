@@ -1,4 +1,4 @@
-Precinct, Registered voters, Ballots Cast Turnout, Gary Peters DEM, John James REP, Valerie L. Willis, Marcia Squier, Doug Dern, Total write-in
+Precinct, Registered voters, Ballots Cast, Turnout, Gary Peters DEM, John James REP, Valerie L. Willis, Marcia Squier, Doug Dern, Total write-in
 Charter Township of Brownstown Precinct 1 0 0 0% 0 0 0 0 0 0
 Charter Township of Brownstown Precinct 2 0 0 0% 0 0 0 0 0 0
 Charter Township of Brownstown Precinct 3 0 0 0% 0 0 0 0 0 0

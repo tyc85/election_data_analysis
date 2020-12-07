@@ -1,4 +1,4 @@
-Precinct, Registered voters, Ballots Cast Turnout, Gary Peters DEM, John James REP, Valerie L. Willis, Marcia Squier, Doug Dern, Total write-in
+Precinct, Registered voters, Ballots Cast, Turnout, Gary Peters DEM, John James REP, Valerie L. Willis, Marcia Squier, Doug Dern, Total write-in
 Albee Township Precinct 1 1,662 1,121 67.45% 440 629 15 3 5 1
 Birch Run Township Precinct 1 2,077 1,509 72.65% 583 875 15 7 5 1
 Birch Run Township Precinct 2 1,240 834 67.26% 385 416 6 3 2 2

@@ -1,10 +1,10 @@
-precinct,registered_voters,ballots_cast,turnout,joseph_r_biden_w_kamala_d_harris_dem,donald_j_trump__michael_r_pence_rep,jo_jorgensen_w_jeremy_cohen,don_blankenship_w_william_mohr,howie_hawkins_w_angela_walker,rocky_de_la_fuente_w_darcy_richardson,total_write_in
+precinct,registered_voters,ballots_cast,turnout,joseph_r_bidenkamala_d_harris,donald_j_trumpmichael_r_pence,jo_jorgensenjeremy_cohen,don_blankenshipwilliam_mohr,howie_hawkinsangela_walker,rocky_de_la_fuentedarcy_richardson,total_write_in
 Algonac City Precinct 1,1538,1134,73.73,350,764,9,1,2,1,0
 Algonac City Precinct 2,1996,1345,67.38,386,916,24,3,4,1,2
 Berlin Township Precinct 1,2521,1996,79.17,437,1523,21,2,6,0,1
 Brockway Township Precinct 1,1611,1187,73.68,255,919,4,1,1,1,3
 Burtchville Township Precinct 2,1606,1192,74.22,420,755,7,1,2,1,3
-Burtchville Township Precinct 3,1928,1234,64,516,680,23,0,4,1,3
+Burtchville Township Precinct,3,1928,1234,64,516,680,23,0,4,1
 Casco Township Precinct 1,1656,1027,62.02,275,732,10,2,4,2,0
 Casco Township Precinct 2,1659,1315,79.26,348,937,13,3,4,0,2
 China Township Precinct 1,1667,1268,76.06,395,843,12,2,4,0,3

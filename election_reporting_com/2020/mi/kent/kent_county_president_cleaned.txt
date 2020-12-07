@@ -1,4 +1,4 @@
-Precinct, Registered voters, Ballots Cast, Turnout, Joseph R. Biden w/ Kamala D. Harris DEM, Donald J. Trump w/ Michael R. Pence REP, Jo Jorgensen w/ Jeremy Cohen, Don Blankenship w/ William Mohr, Howie Hawkins w/ Angela Walker, Rocky De La Fuente w/ Darcy Richardson, Total write-in
+Precinct, Registered voters, Ballots Cast, Turnout, Joseph R. Biden/Kamala D. Harris, Donald J. Trump/Michael R. Pence, Jo Jorgensen/Jeremy Cohen, Don Blankenship/William Mohr, Howie Hawkins/Angela Walker, Rocky De La Fuente/Darcy Richardson, Total write-in
 Ada Township Precinct 1 1,316 1,090 82.83% 589 472 13 1 0 0 0
 Ada Township Precinct 2 2,428 1,979 81.51% 1,043 886 28 1 5 1 0
 Ada Township Precinct 3 1,397 1,152 82.46% 512 592 28 2 3 0 0
