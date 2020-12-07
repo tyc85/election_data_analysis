@@ -69,13 +69,14 @@ def convert_to_csv(input_file_path, output_file_path):
             if '(Out of County)' in line:
                 print(f'skipping entry with (Out of County)\n: {line}')
                 continue
-
-            new_line = line.replace(',', '')
+            
+            # replace comma and percentage
+            new_line = line.replace(',', '').rstrip('\n')
             new_line = new_line.replace('%', '')
             ret = re.match(regex_string, new_line)
             if ret is None:
                 print(
-                    f'following line does not match regex {regex_string}: '
+                    f'in file {input_file_path} line does not match regex {regex_string}: '
                     f'\n{new_line}'
                 )
 
@@ -84,10 +85,10 @@ def convert_to_csv(input_file_path, output_file_path):
                     [' '.join(split_line[0:len(split_line) - len(header) + 1]),]
                     + split_line[-len(header)+1:]
                 )
-                print('attempting a different match:')
+                print('attempting a different match using header length:')
                 print(output_line)
-                print('press c to accept this match and continue or q to quit')
-                pdb.set_trace()
+                # print('press c to accept this match and continue or q to quit')
+                # pdb.set_trace()
             else:
                 output_line = ','.join(
                     ret[x] for x in header
@@ -118,24 +119,25 @@ def main():
         default=None
     )
     args = parser.parse_args()
+    output_file_path_list = []
     if args.source_dir is None:
         input_file_path = args.input_file_path
         output_file_path = args.output_file_path
+        output_file_path_list.append(convert_to_csv(
+            input_file_path,
+            output_file_path
+        ))
     else:
-        input_file_path = args.input_file_path
-        output_file_path = args.output_file_path
+        output_file_path_list = convert_pipline(args.source_dir)
 
-    output_file_path = convert_to_csv(
-        input_file_path,
-        output_file_path
-    )
-    print(f'csv file generated {output_file_path}')
-    df = pd.read_csv(output_file_path, header=0)
-    print(df)
+    return output_file_path_list
 
+    
 
-def convert_pipline(file_path):
-    cleaned_txt_file_list = glob.glob(file_path.rstrip('/')+'/*cleaned.txt')
+def convert_pipline(source_dir):
+    cleaned_txt_file_list = glob.glob(source_dir.rstrip('/')+'/*cleaned.txt')
+    output_file_path_list = []
+    print(f'convering files in directory {source_dir}, file list {cleaned_txt_file_list}')
     for f in cleaned_txt_file_list:
         input_file_path = f
         output_file_path = f.replace('.txt', '.csv')
@@ -143,32 +145,10 @@ def convert_pipline(file_path):
             f'converting {input_file_path} to {output_file_path}'
         )
         convert_to_csv(input_file_path, output_file_path)
+        output_file_path_list.append(output_file_path)
 
-            
+    return output_file_path_list
 
-def test_regex(regex_string, input_string, list_of_fields):
-    ret = re.match(regex_string, input_string)
-    for f in list_of_fields:
-        print(ret[f])
-    return ret
-    
-def test_run():
-    regex_string = (
-        r'(?P<precinct>[a-zA-Z\s]+)'
-        r'(?P<registred_voters>[\d]+)\s+'
-        r'(?P<ballots_cast>[\d]+)\s+'
-        r'(?P<turnout>[\d.\%]+)\s+'
-        r'(?P<biden>[\d.\%]+)\s+'
-        r'(?P<trump>[\d]+)\s+'
-        r'(?P<jorgensen>[\d]+)\s+'
-        r'(?P<blankenship>[\d]+)\s+'
-        r'(?P<hawkins>[\d]+)\s+'
-        r'(?P<fuente>[\d]+)\s+'
-        r'(?P<total_write_in>[\d]+)\s+'
-    )
-    input_string = "Ada Township Precinct 1 1,316 1,090 82.83% 589 472 13 1 0 0 0"
-    list_of_fields = ['precinct', 'registred_voters', 'turnout', 'biden', 'trump']
-    test_regex(regex_string, input_string, list_of_fields)
 
 if __name__ == '__main__':
     main()
