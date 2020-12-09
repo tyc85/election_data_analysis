@@ -107,19 +107,25 @@ def plot_president_vs_senator_all_counties(
         print(f'data for county {county} has column that does not have expected key')
         pdb.set_trace()
         
-
+    try:
+        df_merge = df_merge[df_merge['ballots_cast'] != 0]
+    except KeyError:
+        print('df_merge does not have key ballots_cast')
+        df_merge = df_merge[df_merge['ballots_cast_p'] != 0]
+        # pdb.set_trace()
+        
     total_president_series = df_merge[biden_key] + df_merge[trump_key]
     df_president_percentage_dem = df_merge[biden_key]/total_president_series
     df_president_percentage_rep = df_merge[trump_key]/total_president_series
 
-    df_diff_dem = df_merge[biden_key]/total_president_series - df_merge[senator_dem_key]
-    df_diff_rep = df_merge[trump_key]/total_president_series - df_merge[senator_rep_key]
+    # df_diff_dem = df_merge[biden_key]/total_president_series - df_merge[senator_dem_key]
+    # df_diff_rep = df_merge[trump_key]/total_president_series - df_merge[senator_rep_key]
 
     total_senator_series = df_merge[senator_dem_key]+df_merge[senator_rep_key]
     df_senator_percentage_dem = df_merge[senator_dem_key]/total_senator_series
     df_senator_percentage_rep = df_merge[senator_rep_key]/total_senator_series
 
-    pdb.set_trace()
+
     fig_counter += 1
     plt.figure(fig_counter)
     party = 'republican'
@@ -161,7 +167,7 @@ def plot_president_vs_senator_all_counties(
 
 def plot_president_vs_senator_per_county(
     county, 
-    fig_counter_base, 
+    fig_counter_base=100, 
     state='mi',
     save_figure=True,
     year=2020
@@ -193,6 +199,12 @@ def plot_president_vs_senator_per_county(
     # precincts = df_p['precinct'].unique()
     # df_merge = pd.merge(df_p, df_s, suffixes=('_p', '_s'))
     df_merge = pd.merge(df_p, df_s, suffixes=('_p', '_s'), how='inner', on='precinct')
+    try:
+        df_merge = df_merge[df_merge['ballots_cast'] != 0]
+    except KeyError:
+        print('df_merge does not have key ballots_cast')
+        df_merge = df_merge[df_merge['ballots_cast_p'] != 0]
+        
     senator_dem_key = None
     senator_rep_key = None
     for x in df_p.columns:
